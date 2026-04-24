@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/qingpowuwu/Downloads/Self-Evo.github.io-main/**)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "Bash(https_proxy=http://127.0.0.1:7890 http_proxy=http://127.0.0.1:7890 git push origin main)",
+      "Bash(https_proxy=http://127.0.0.1:7890 http_proxy=http://127.0.0.1:7890 git add index.html)",
+      "Bash(git checkout *)",
+      "Bash(git branch *)",
+      "Bash(https_proxy=http://127.0.0.1:7890 http_proxy=http://127.0.0.1:7890 git push origin main --force)"
+    ]
+  }
+}
